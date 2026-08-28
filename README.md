@@ -1,5 +1,3 @@
-<div align="center">
-
 # Divide.ai API
 
 API REST para gerenciamento financeiro pessoal e compartilhado, com integração de inteligência artificial para auxiliar na análise das finanças do usuário.
